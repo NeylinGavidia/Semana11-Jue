@@ -1,0 +1,10 @@
+C:\Users\UCLABRED10\Documents\C#\Sem9\T2\S11-P\Semana11-Jue\Semana11-Jue\bin\Debug\Semana11-Jue.exe.config
+C:\Users\UCLABRED10\Documents\C#\Sem9\T2\S11-P\Semana11-Jue\Semana11-Jue\bin\Debug\Semana11-Jue.exe
+C:\Users\UCLABRED10\Documents\C#\Sem9\T2\S11-P\Semana11-Jue\Semana11-Jue\bin\Debug\Semana11-Jue.pdb
+C:\Users\UCLABRED10\Documents\C#\Sem9\T2\S11-P\Semana11-Jue\Semana11-Jue\bin\Debug\Biblioteca.dll
+C:\Users\UCLABRED10\Documents\C#\Sem9\T2\S11-P\Semana11-Jue\Semana11-Jue\bin\Debug\Biblioteca.pdb
+C:\Users\UCLABRED10\Documents\C#\Sem9\T2\S11-P\Semana11-Jue\Semana11-Jue\obj\Debug\Semana11-Jue.csproj.AssemblyReference.cache
+C:\Users\UCLABRED10\Documents\C#\Sem9\T2\S11-P\Semana11-Jue\Semana11-Jue\obj\Debug\Semana11-Jue.csproj.CoreCompileInputs.cache
+C:\Users\UCLABRED10\Documents\C#\Sem9\T2\S11-P\Semana11-Jue\Semana11-Jue\obj\Debug\Semana11.79E5DDE9.Up2Date
+C:\Users\UCLABRED10\Documents\C#\Sem9\T2\S11-P\Semana11-Jue\Semana11-Jue\obj\Debug\Semana11-Jue.exe
+C:\Users\UCLABRED10\Documents\C#\Sem9\T2\S11-P\Semana11-Jue\Semana11-Jue\obj\Debug\Semana11-Jue.pdb

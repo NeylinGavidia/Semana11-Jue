@@ -1,0 +1,6 @@
+C:\Users\UCLABRED10\Documents\C#\Sem9\T2\S11-P\Semana11-Jue\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\UCLABRED10\Documents\C#\Sem9\T2\S11-P\Semana11-Jue\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\UCLABRED10\Documents\C#\Sem9\T2\S11-P\Semana11-Jue\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\UCLABRED10\Documents\C#\Sem9\T2\S11-P\Semana11-Jue\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\UCLABRED10\Documents\C#\Sem9\T2\S11-P\Semana11-Jue\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\UCLABRED10\Documents\C#\Sem9\T2\S11-P\Semana11-Jue\Biblioteca\obj\Debug\Biblioteca.pdb
